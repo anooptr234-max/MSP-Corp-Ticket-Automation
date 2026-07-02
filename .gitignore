@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/IT_Service_Tickets.csv
+.env
